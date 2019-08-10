@@ -1,9 +1,10 @@
 
 TITLE: 
-Elate - One Page Responsive Free HTML5 template
+Used as landing page for Seatbug.com, the only traveler social network.
+Started in Taipei in 2015, with AWS then moved in 08/20 to Netlify free hosting including built-in form management.
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+Elate style, DESIGNED & DEVELOPED by FREEHTML5.co
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
